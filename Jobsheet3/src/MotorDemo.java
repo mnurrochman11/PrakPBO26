@@ -5,5 +5,4 @@ public class MotorDemo {
         motor.kecepatan = 50;
         motor.printStatus();
     }
-    
 }
