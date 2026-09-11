@@ -17,6 +17,7 @@ public class Motor {
         // } else {
         // System.out.println("Kecepatan tidak bisa bertambah karena Mesin Off! \n");
         // }
+        
         if (kontakOn == true) {
             if (kecepatan + 5 <= 100) {
                 kecepatan += 5;

@@ -4,7 +4,6 @@ public class MotorDemo {
         // motor.printStatus();
         // motor.kecepatan = 50;
         // motor.printStatus();
-        
         motor.printStatus();
         motor.tambahKecepatan();
 
