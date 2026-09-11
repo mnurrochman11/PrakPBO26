@@ -12,9 +12,14 @@ public class TestNasabah {
 
         // System.out.println("Saldo " + anton.getNama() + " saat ini: Rp. " + anton.getSaldo());
 
-        Nasabah nas = new Nasabah();
+        // Nasabah nas = new Nasabah();
+        // System.out.println("Nomor Rekening: " + nas.getNomorRekening());
+        // System.out.println("Nama: " + nas.getNama());
+        // System.out.println("Saldo: " + nas.getSaldo()); 
+
+        Nasabah nas = new Nasabah("11556677", "Nicola Tesla", 900000);
         System.out.println("Nomor Rekening: " + nas.getNomorRekening());
         System.out.println("Nama: " + nas.getNama());
-        System.out.println("Saldo: " + nas.getSaldo()); 
+        System.out.println("Saldo: " + nas.getSaldo());
     }
 }
