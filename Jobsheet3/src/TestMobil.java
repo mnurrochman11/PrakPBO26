@@ -3,7 +3,19 @@ public class TestMobil {
         Mobil mbl = new Mobil();
 
         mbl.tampilkanStatus();
-        mbl.kecepatan = 100;
+
+        mbl.tambahKecepatan();
+
+        mbl.nyalakanMesin();
+        mbl.tampilkanStatus();
+
+        mbl.tambahKecepatan();
+        mbl.tampilkanStatus();
+
+        mbl.tambahKecepatan();
+        mbl.tampilkanStatus();
+
+        mbl.tambahKecepatan();
         mbl.tampilkanStatus();
     }
     
