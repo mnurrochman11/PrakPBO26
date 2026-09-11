@@ -10,4 +10,5 @@ public class Motor {
         }
         System.out.println("Kecepatan " + kecepatan + "\n");
     }
+    
 }
