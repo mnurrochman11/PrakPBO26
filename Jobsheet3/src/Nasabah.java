@@ -3,6 +3,12 @@ public class Nasabah {
     private String nama;
     private int saldo = 0;
 
+    public Nasabah() {
+        nomorRekening = "000000";
+        nama = "NO NAME";
+        saldo = 50000;
+    }
+    
     public void setNomorRekening(String norek) {
         nomorRekening = norek;
     }
