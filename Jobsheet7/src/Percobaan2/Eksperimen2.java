@@ -1,4 +1,4 @@
-package Percobaan2;
+package percobaan2;
 
 public class Eksperimen2 {
     static void tampilLong(Long x) {

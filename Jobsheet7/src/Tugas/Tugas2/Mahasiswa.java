@@ -1,4 +1,4 @@
-package Tugas.Tugas2;
+package tugas.Tugas2;
 
 public class Mahasiswa extends Manusia {
     @Override

@@ -1,4 +1,4 @@
-package Percobaan5;
+package percobaan5;
 
 public class Staff extends Karyawan {
     private int jamLembur;

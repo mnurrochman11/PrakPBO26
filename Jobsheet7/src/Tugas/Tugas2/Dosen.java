@@ -1,4 +1,4 @@
-package Tugas.Tugas2;
+package tugas.Tugas2;
 
 public class Dosen extends Manusia {
     @Override

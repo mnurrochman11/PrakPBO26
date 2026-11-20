@@ -1,4 +1,4 @@
-package Tugas.Tugas1;
+package tugas.Tugas1;
 
 public class Segitiga {
     private int sudut;

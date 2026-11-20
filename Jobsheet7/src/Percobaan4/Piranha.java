@@ -1,4 +1,4 @@
-package Percobaan4;
+package percobaan4;
 
 public class Piranha extends Ikan {
     @Override

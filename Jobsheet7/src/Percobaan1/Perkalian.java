@@ -1,4 +1,4 @@
-package Percobaan1;
+package percobaan1;
 
 public class Perkalian {
     public int kali(int a, int b) {

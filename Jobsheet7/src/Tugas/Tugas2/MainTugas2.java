@@ -1,4 +1,4 @@
-package Tugas.Tugas2;
+package tugas.Tugas2;
 
 public class MainTugas2 {
     public static void main(String[] args) {

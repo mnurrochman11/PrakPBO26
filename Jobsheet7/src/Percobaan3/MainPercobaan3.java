@@ -1,4 +1,4 @@
-package Percobaan3;
+package percobaan3;
 
 public class MainPercobaan3 {
     public static void main(String[] args) {

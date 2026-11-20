@@ -1,4 +1,4 @@
-package Percobaan5;
+package percobaan5;
 
 public class Manager extends Karyawan {
     private double tunjangan;

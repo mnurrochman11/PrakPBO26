@@ -1,4 +1,4 @@
-package Tugas.Tugas2;
+package tugas.Tugas2;
 
 public class Manusia {
     public void bernafas() {

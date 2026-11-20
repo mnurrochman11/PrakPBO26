@@ -1,4 +1,4 @@
-package Percobaan2;
+package percobaan2;
 
 public class Resolusi {
     public static void tampil(long x) {

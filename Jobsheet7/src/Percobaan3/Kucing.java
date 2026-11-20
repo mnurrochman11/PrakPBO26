@@ -1,4 +1,4 @@
-package Percobaan3;
+package percobaan3;
 
 public class Kucing {
     private String nama;
